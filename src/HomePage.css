@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+/* .FilterContainer
+{
+    /* display:flex; */
+    /* justify-content: center; */
+    /* width: fit-content;
+    margin-left: auto;
+    margin-right: auto; */
+    /* justify-content: center; */
+    /* border: 1px solid red;   */
+    /* background-color: white;
+    border-radius: 5px; */
+/* }  */
+
+.HomecardStyle
+{
+    display: flex;
+    width:fit-content;
+    /* flex-direction: row;  */
+    flex-wrap:wrap;
+    justify-content:center;
+    /* flex-grow: 1; */
+    margin:15px;
+}
+
+.SubcardStyle
+{
+    flex: 1;
+    height: 100px;
+
+}
+
+.MainheadStyle{
+    font-family: 'Poppins', sans-serif;
+}
+
+.SubtextStyle{
+    font-family: 'Rubik', sans-serif;
+}
+
+/* .FilterContent
+{
+    padding: 4px;
+    margin: 15px;
+    border-right: 1px solid rgb(152, 151, 151);
+}
+.FilterContent1
+{
+    padding: 4px;
+    margin: 15px;
+} */
+
+.SearchStyle
+{
+    font-family: 'Rubik', sans-serif;
+    padding: 1em;
+}
+
+.container{
+    background-color: #F8F7FD;
+}

@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+
+
+
+.card{
+    /* flex-grow: 1; */
+    width: fit-content;
+    padding: 1em;
+    background-color: white;
+    margin: 1em;
+    border-radius: 10px;
+    /* flex-basis: 30%; */
+}
+
+/* .imageResize img
+{
+    width: 30%;
+    height: auto;
+} */
+
+.contentStyle{
+    padding-top: 0;
+    margin-top: 0;
+    padding-left: 8px;
+    background-color: white;
+}
+
+.priceStyle{
+    /* margin-top: 15px; */
+    color: #675ecb;
+    display: inline;
+    font-family: 'Lato', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+
+}
+
+.TextStyle
+{
+    font-family: 'Poppins', sans-serif;
+    display: inline;
+    font-size: 10px;
+}
+
+.PlaceStyle{
+    font-family: 'Lato', sans-serif;
+    padding-top: 5px;
+    font-weight: bold;
+}
+
+.AddressStyle
+{
+    border-bottom: 1px solid rgb(203, 203, 203);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+}
+
+.DateStyle
+{
+    /* border-bottom: 1px solid rgb(203, 203, 203); */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+}
+
+
+.IconStyle{
+    padding: 1em 0;
+}
+
+.IconTextStyle
+{
+    display: inline;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
